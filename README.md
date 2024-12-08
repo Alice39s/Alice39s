@@ -46,10 +46,11 @@ const aboutMe = {
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ## Languages & Tools
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alice39s&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stauts-nine.vercel.app/api?username=alice39s&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github-readme-stauts-nine.vercel.app/api?username=alice39s&theme=dracula&column=4&margin-w=15&margin-h=15)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alice39s&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div align="center">
   <sub>Currently working remotely. Response time may vary due to different time zones.</sub>
@@ -59,6 +60,6 @@ const aboutMe = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alice39s&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alice39s&theme=dracula&column=4&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=alice39s&theme=dracula&column=4&margin-w=15&margin-h=15)
 
 </div>
