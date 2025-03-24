@@ -18,18 +18,6 @@
 
 </div>
 
-## :speech_balloon: About Me
-
-```typescript
-const aboutMe = {
-    name: "Alice39s",
-    role: "Remote Software Engineer",
-    languages: ["TypeScript", "JavaScript", "Python", "Golang"],
-    interests: ["Web Development", "System Design", "Infrastructure"],
-    currentFocus: "Building scalable web applications",
-};
-```
-
 ## :hammer_and_wrench: Technical Stack
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-bottom: 30px;">
