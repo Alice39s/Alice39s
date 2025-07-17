@@ -15,9 +15,9 @@
 </div>
 
 <p align="center">
-  <a href="#as-shown-on-the-badge"><img src="https://img.shields.io/badge/Email:bWFpbHRvOmdpdGh1Yi5yZWFkbWVAaGF0cy1sYW5kLmNvbQ==-6272a4?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/affyes"><img src="https://img.shields.io/badge/Telegram%20Channel-6272a4?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.hats-land.com/?fr=github_readme"><img src="https://img.shields.io/badge/Blog-6272a4?style=flat-square&logo=ghost&logoColor=white" /></a>
+  <a href="#as-shown-on-the-badge" target="_blank"><img src="https://img.shields.io/badge/Email:bWFpbHRvOmdpdGh1Yi5yZWFkbWVAaGF0cy1sYW5kLmNvbQ==-6272a4?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/affyes" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-6272a4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.hats-land.com/?fr=github_readme" target="_blank"><img src="https://img.shields.io/badge/Blog-6272a4?style=flat-square&logo=ghost&logoColor=white" /></a>
 </p>
 
 <hr>
