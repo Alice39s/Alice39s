@@ -25,35 +25,35 @@
 ### Frontend Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,vite,tailwind,materialui,vitest,npm,pnpm,bun,babel,rollupjs" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=ts,js,html,css,react,nextjs,vite,tailwind,materialui,vitest,npm,pnpm,bun,babel,rollupjs" />
   </a>
 </p>
 
 ### Backend & Runtimes
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,go,py,php,bun,express,laravel,supabase,prisma,postgres,mongodb,sqlite,mysql,redis" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=ts,nodejs,go,py,php,bun,express,laravel,supabase,prisma,postgres,mongodb,sqlite,mysql,redis" />
   </a>
 </p>
 
 ### DevOps & Infrastructure
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,openstack,cloudflare,redhat,ansible,linux,debian,ubuntu,bash,nginx,prometheus,grafana,githubactions,sentry" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,openstack,cloudflare,redhat,nix,linux,debian,ubuntu,bash,nginx,prometheus,grafana,githubactions,sentry" />
   </a>
 </p>
 
 ### SaaS & PaaS & IaaS
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vercel,netlify,github,gitlab,firebase,webflow,replit,supabase,cloudflare,workers,deno,heroku,aws,gcp,azure" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=vercel,netlify,github,gitlab,firebase,webflow,replit,supabase,cloudflare,workers,deno,heroku,aws,gcp,azure" />
   </a>
 </p>
 
 ### Software & Platforms
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,webstorm,phpstorm,pycharm,vscode,vscodium,sublime,vim,latex,git,figma,matlab,opencv,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?theme=dark&i=idea,webstorm,phpstorm,pycharm,vscode,vscodium,sublime,vim,latex,git,figma,matlab,opencv,pytorch,tensorflow" />
   </a>
 </p>
 
