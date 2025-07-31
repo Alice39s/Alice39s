@@ -31,12 +31,6 @@
   <a href="https://github.com/alice39s/cloudflare-custom-pages-nextjs">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alice39s&repo=cloudflare-custom-pages-nextjs&theme=dracula" />
   </a>
-  <a href="https://github.com/alice39s/aqua-speed">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alice39s&repo=aqua-speed&theme=dracula" />
-  </a>
-  <a href="https://github.com/alice39s/aqua-speed-tools">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alice39s&repo=aqua-speed-tools&theme=dracula" />
-  </a>
 </p>
 
 <hr>
